@@ -31,17 +31,19 @@ The game meets the requirements of the theme "Losing to Win," as the player must
 
 ---
 
-<ins>**Yandere Simulator**</ins>
+<ins>**Yandere AI Girlfriend Simulator ~ With You Til The End**</ins>
 
-**Yandere Simulator** is a game where the player takes on the role of a yandere (a character with obsessive love tendencies), who eliminates rivals to win the affection of a fellow student. The game’s core mechanics revolve around **emotional manipulation** and the consequences of obsessive love. The player must carefully manage the protagonist’s interactions with others to avoid detection while eliminating rivals. Like **Love Me Not**, the game's focus is on avoiding escalating danger while interacting with emotionally unstable characters, making it a fitting inspiration for handling yandere themes.
+**Yandere AI Girlfriend Simulator ~ With You Til The End** is a simulation game where the player interacts with an AI-powered yandere character who becomes increasingly obsessed with the player. The game revolves around managing the player's relationship with the yandere character, who will do anything to keep the player close, even resorting to violent actions. The **primary gameplay mechanic** involves navigating through different scenarios where the player must avoid intensifying the yandere’s affection, which could trigger dangerous consequences.
+
+Inspiration for **Love Me Not** is drawn from this game’s focus on **emotional manipulation** and survival within a dangerous, obsessive relationship. The player in **Love Me Not** will similarly need to make calculated choices to lower the characters' affection levels and avoid escalating their obsession to the point of violence. Much like in **Yandere AI Girlfriend Simulator**, the player's success hinges on managing the emotional dynamics with the yandere characters, but the twist is that the player must break the characters' hearts in order to survive.
 
 <p align="center">
-  <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/yandere_simulator.png" alt="Yandere Simulator">
+  <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/yandere_ai.png" alt="Yandere AI Girlfriend Simulator">
   <br>
-  <em>Figure 2 Preview of Yandere Simulator</em>
+  <em>Figure 2 Preview of Yandere AI Girlfriend Simulator ~ With You Til The End</em>
 </p>
 
-These two games, **Doki Doki Literature Club!** and **Yandere Simulator**, offer a strong thematic and gameplay foundation for **Love Me Not**, focusing on the psychological manipulation of characters and the tension of surviving emotionally intense and obsessive relationships.
+These two games, **Doki Doki Literature Club!** and **Yandere AI Girlfriend Simulator ~ With You Til The End**, offer a strong thematic and gameplay foundation for **Love Me Not**, focusing on the psychological manipulation of characters and the tension of surviving emotionally intense and obsessive relationships.
 
 ---
 
