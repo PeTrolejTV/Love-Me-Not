@@ -24,7 +24,7 @@ The game meets the requirements of the theme "Losing to Win," as the player must
 **Doki Doki Literature Club!** is a visual novel that begins as a typical dating sim but gradually turns into a psychological horror experience. The player navigates through interactions with seemingly normal characters, but the game takes dark twists, revealing disturbing elements. The concept of **emotional manipulation** and **survival** is explored through the interactions with the characters, with the player needing to make careful choices to avoid harm. The game challenges the typical romantic tropes, much like how **Love Me Not** twists the concept of dating by making the player avoid gaining affection to survive.
 
 <p align="center">
-  <img src="https://github.com/PeTrolejTV/Love-Me-Not/main/doki_doki.jpg" alt="Doki Doki Literature Club!">
+  <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/doki_doki.png" alt="Doki Doki Literature Club!">
   <br>
   <em>Figure 1 Preview of Doki Doki Literature Club!</em>
 </p>
@@ -36,7 +36,7 @@ The game meets the requirements of the theme "Losing to Win," as the player must
 **Yandere Simulator** is a game where the player takes on the role of a yandere (a character with obsessive love tendencies), who eliminates rivals to win the affection of a fellow student. The game’s core mechanics revolve around **emotional manipulation** and the consequences of obsessive love. The player must carefully manage the protagonist’s interactions with others to avoid detection while eliminating rivals. Like **Love Me Not**, the game's focus is on avoiding escalating danger while interacting with emotionally unstable characters, making it a fitting inspiration for handling yandere themes.
 
 <p align="center">
-  <img src="https://github.com/PeTrolejTV/Love-Me-Not/main/yandere_simulator.jpg" alt="Yandere Simulator">
+  <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/yandere_simulator.png" alt="Yandere Simulator">
   <br>
   <em>Figure 2 Preview of Yandere Simulator</em>
 </p>
