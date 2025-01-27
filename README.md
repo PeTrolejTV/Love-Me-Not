@@ -59,8 +59,9 @@ To succeed, the player must **outmaneuver the yandere characters** by making the
 
 ### **1.3 Development Software**
 - **Pygame-CE**: chosen programming language.
-- **PyCharm 2024.1**: chosen IDE.
+- **PyCharm 2024.3**: chosen IDE.
 - **Adobe Photoshop**: graphical tool for creating graphics.
+- **Audacity**: for editing sound effects.
 
 ---
 
