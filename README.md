@@ -152,7 +152,7 @@ The core theme of *Love Me Not*—losing to win—is woven through every artisti
   - Interactive elements like buttons and sliders maintain the romantic theme while adapting to changes in narrative tone.
 
 <p align="center">
-  <img src="https://github.com/PeTrolejTV/Love-Me-Not/main/design_concept.png" alt="Design concept">
+  <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/design_concept.png" alt="Design concept">
   <br>
   <em>Figure 4 Design concept</em>
 </p>
