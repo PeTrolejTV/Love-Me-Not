@@ -236,11 +236,13 @@ The user interface in *Love Me Not* is designed to be both intuitive and atmosph
 
 ### **5.2 Controls**
 <ins>**Keyboard**</ins>
-- **Escape**: Opens the pause menu.
+- **Escape**: Opens the pause menu / Back.
 - **Enter / Space**: Skips dialogue or confirms a choice.
+- **F11**: Go into windowed mode while in main menu or in game.
 
 <ins>**Mouse**</ins> 
 - **Left Click**: Skips dialogue or selects options.
+- **Lower side button**: Opens the pause menu / Back.
 
 ---
 
