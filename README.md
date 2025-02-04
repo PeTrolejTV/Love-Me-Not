@@ -98,10 +98,11 @@ This architecture creates a rich tapestry of strategy, suspense, and psychologic
 ## **3. Art**  
 The art of *Love Me Not* marries romantic allure with psychological horror. The hand-drawn visuals emphasize both the beauty and the underlying menace of the narrative.
 
-- **Character Art**:  
+- **Character Art**:
   - **Surface Appearance**: Characters are depicted with soft lines, gentle blushes, and vibrant details that initially charm the player.
   - **Hidden Depths**: Subtle hints—like an unsettling glint in the eye or a slightly off smile—reveal the dangerous obsession beneath.
   - **Dynamic Expressions**: As dialogue unfolds and choices are made, character portraits and body language shift to reflect increasing intensity or aggression.
+    - *Characters were generated using Generative AI and later edited in photoshop*
 
 - **Environmental Art**:  
   - The game features a single, striking gradient background that serves as the visual foundation for every scene.
