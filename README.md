@@ -113,7 +113,7 @@ The art of *Love Me Not* marries romantic allure with psychological horror. The 
   - Conversely, a successful escape is marked by a soothing green overlay, symbolizing victory and renewal.
 
 <p align="center">
-  <img src="https://github.com/PeTrolejTV/Love-Me-Not/main/yandere_girl.png" alt="Yandere girl">
+  <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/yandere_girl.png" alt="Yandere girl">
   <br>
   <em>Figure 3 Preview of Yandere girl</em>
 </p>
