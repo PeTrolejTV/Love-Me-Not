@@ -33,29 +33,29 @@ SCREEN_WIDTH, SCREEN_HEIGHT = screen.get_size()
 clock = pygame.time.Clock()
 
 # Assets
-menu_background = pygame.image.load("assets/Art/backgroundLMN.png")
-game_background = pygame.image.load("assets/Art/gradient.png")
+menu_background = pygame.image.load(resource_path("assets/Art/backgroundLMN.png"))
+game_background = pygame.image.load(resource_path("assets/Art/gradient.png"))
 
 # Character
-ch_1 = pygame.image.load("assets/Character_expressions/char_talk.png")
-ch_2 = pygame.image.load("assets/Character_expressions/char_talk2.png")
-ch_3 = pygame.image.load("assets/Character_expressions/char_talk3.png")
-ch_knife = pygame.image.load("assets/Character_expressions/char_knife.png")
-ch_mad_knife = pygame.image.load("assets/Character_expressions/char_mad_knife.png")
-ch_sad = pygame.image.load("assets/Character_expressions/char_sad.png")
-ch_happy = pygame.image.load("assets/Character_expressions/char_happy.png")
-ch_fc_plm = pygame.image.load("assets/Character_expressions/char_face_palm.png")
+ch_1 = pygame.image.load(resource_path("assets/Character_expressions/char_talk.png"))
+ch_2 = pygame.image.load(resource_path("assets/Character_expressions/char_talk2.png"))
+ch_3 = pygame.image.load(resource_path("assets/Character_expressions/char_talk3.png"))
+ch_knife = pygame.image.load(resource_path("assets/Character_expressions/char_knife.png"))
+ch_mad_knife = pygame.image.load(resource_path("assets/Character_expressions/char_mad_knife.png"))
+ch_sad = pygame.image.load(resource_path("assets/Character_expressions/char_sad.png"))
+ch_happy = pygame.image.load(resource_path("assets/Character_expressions/char_happy.png"))
+ch_fc_plm = pygame.image.load(resource_path("assets/Character_expressions/char_face_palm.png"))
 
 ch_active = ch_1
 
 # Fonts
-TITLE_FONT = pygame.font.Font("assets/Fonts/BeautifulPeople.ttf", SCREEN_WIDTH // 10)
-BUTTON_FONT = pygame.font.Font("assets/Fonts/Comfort-Bold.ttf", SCREEN_WIDTH // 30)
-OPTIONS_BUTTON_FONT = pygame.font.Font("assets/Fonts/Comfort-Bold.ttf", SCREEN_WIDTH // 69)
-CH_TEXT_FONT = pygame.font.Font("assets/Fonts/Comfort-Bold.ttf", SCREEN_HEIGHT // 24)
+TITLE_FONT = pygame.font.Font(resource_path("assets/Fonts/BeautifulPeople.ttf"), SCREEN_WIDTH // 10)
+BUTTON_FONT = pygame.font.Font(resource_path("assets/Fonts/Comfort-Bold.ttf"), SCREEN_WIDTH // 30)
+OPTIONS_BUTTON_FONT = pygame.font.Font(resource_path("assets/Fonts/Comfort-Bold.ttf"), SCREEN_WIDTH // 69)
+CH_TEXT_FONT = pygame.font.Font(resource_path("assets/Fonts/Comfort-Bold.ttf"), SCREEN_HEIGHT // 24)
 
 # Icon
-icon = pygame.image.load("assets/Art/icon.png")
+icon = pygame.image.load(resource_path("assets/Art/icon.png"))
 pygame.display.set_icon(icon)
 
 def toggle_fullscreen():
@@ -67,10 +67,10 @@ def toggle_fullscreen():
     def update_fonts():
         global TITLE_FONT, BUTTON_FONT, OPTIONS_BUTTON_FONT, CH_TEXT_FONT
 
-        TITLE_FONT = pygame.font.Font("dassets/Fonts/BeautifulPeople.ttf", SCREEN_WIDTH // 10)
-        BUTTON_FONT = pygame.font.Font("dassets/Fonts/Comfort-Bold.ttf", SCREEN_WIDTH // 30)
-        OPTIONS_BUTTON_FONT = pygame.font.Font("assets/Fonts/Comfort-Bold.ttf", SCREEN_WIDTH // 69)
-        CH_TEXT_FONT = pygame.font.Font("assets/Fonts/Comfort-Bold.ttf", SCREEN_HEIGHT // 24)
+        TITLE_FONT = pygame.font.Font(resource_path("assets/Fonts/BeautifulPeople.ttf"), SCREEN_WIDTH // 10)
+        BUTTON_FONT = pygame.font.Font(resource_path("assets/Fonts/Comfort-Bold.ttf"), SCREEN_WIDTH // 30)
+        OPTIONS_BUTTON_FONT = pygame.font.Font(resource_path("assets/Fonts/Comfort-Bold.ttf"), SCREEN_WIDTH // 69)
+        CH_TEXT_FONT = pygame.font.Font(resource_path("assets/Fonts/Comfort-Bold.ttf"), SCREEN_HEIGHT // 24)
 
     if is_fullscreen:
         screen = pygame.display.set_mode((800, 600))
@@ -1296,7 +1296,7 @@ def options():
         pygame.draw.circle(screen, (255, 255, 255), (knob_x, knob_y), slider_knob_radius)
 
         # Draw label
-        font = pygame.font.Font("assets/Fonts/Comfort-Bold.ttf", 24)
+        font = pygame.font.Font(resource_path("assets/Fonts/Comfort-Bold.ttf"), 24)
         label_surface = font.render(f"{label}: {round(volume * 100)}%", True, (255, 255, 255))
         screen.blit(label_surface, (rect.x, rect.y - 40))
 
