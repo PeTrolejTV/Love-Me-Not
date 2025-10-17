@@ -271,3 +271,15 @@ A key innovation in *Love Me Not* is its dialogue system. Using a combination of
 Will you be able to break her heart before she breaks yours?
 
 ---
+
+## 🎮 How to Play Love Me Not
+
+1. **Download the project**
+   - Click the green **"Code" → "Download ZIP"**, then extract it anywhere on your PC.
+
+2. **Open the folder**
+   - Go to: `Love-Me-Not-main/LoveMeNot`
+
+3. **Run the game**
+   - To **build an EXE** → double-click `build_exe.bat`
+   - To **Play** the game → open the newly created folder `dist` and double-click on `main.exe`.
