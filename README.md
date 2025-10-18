@@ -24,7 +24,7 @@ The game fully embraces the theme **"Losing to Win"**—your survival hinges on 
 *Doki Doki Literature Club!* starts as a seemingly innocent dating sim and gradually morphs into a psychological horror experience. The subtle interplay between charming interactions and dark, hidden agendas inspired *Love Me Not*’s narrative design, where emotional manipulation and survival under duress are key.
 
 <p align="center">
-  <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/doki_doki_literature.png" alt="Doki Doki Literature Club!">
+  <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/LoveMeNot/gallery/doki_doki_literature.png" alt="Doki Doki Literature Club!">
   <br>
   <em>Figure 1 Preview of Doki Doki Literature Club!</em>
 </p>
@@ -36,7 +36,7 @@ The game fully embraces the theme **"Losing to Win"**—your survival hinges on 
 This simulation game places you in an increasingly dangerous relationship with an obsessive yandere character. The core mechanic—managing an AI’s overbearing affection through subtle interactions—inspired the gameplay of *Love Me Not*. Here, you must navigate conversations, dodge romantic traps, and use strategic dialogue choices to keep your would-be admirer’s obsession from escalating to violence.
 
 <p align="center">
-  <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/yandere_ai.png" alt="Yandere AI Girlfriend Simulator">
+  <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/LoveMeNot/gallery/yandere_ai.png" alt="Yandere AI Girlfriend Simulator">
   <br>
   <em>Figure 2 Preview of Yandere AI Girlfriend Simulator ~ With You Til The End</em>
 </p>
@@ -114,7 +114,7 @@ The art of *Love Me Not* marries romantic allure with psychological horror. The 
   - Conversely, a successful escape is marked by a soothing green overlay, symbolizing victory and renewal.
 
 <p align="center">
-  <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/yandere_girl.png" alt="Yandere girl">
+  <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/LoveMeNot/gallery/yandere_girl.png" alt="Yandere girl">
   <br>
   <em>Figure 3 Preview of Yandere girl</em>
 </p>
@@ -153,7 +153,7 @@ The core theme of *Love Me Not*—losing to win—is woven through every artisti
   - Interactive elements like buttons and sliders maintain the romantic theme while adapting to changes in narrative tone.
 
 <p align="center">
-  <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/design_concept.png" alt="Design concept">
+  <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/LoveMeNot/gallery/design_concept.png" alt="Design concept">
   <br>
   <em>Figure 4 Design concept</em>
 </p>
@@ -179,7 +179,7 @@ Music plays a pivotal role in setting the mood in *Love Me Not*. The background 
 
 - **Game Over & Victory Themes**:  
   Chilling, somber melodies underscore failure, while bittersweet orchestral pieces celebrate narrow escapes—each reinforcing the emotional weight of your choices.
-  - https://www.youtube.com/watch?v=W1i4mTyidOc
+  - https://www.youtube.com/watch?v=h1wSPmlZV-w
   - https://www.youtube.com/watch?v=3GwjfUFyY6M
 
 ### **4.2 Sound Effects**
@@ -275,11 +275,11 @@ Will you be able to break her heart before she breaks yours?
 ## 🎮 How to Play Love Me Not
 
 1. **Download the project**
-   - Click the green **"Code" → "Download ZIP"**, then extract it anywhere on your PC.
+   - Click the green **"Code" → "Download ZIP"**, then extract it anywhere on your PC
 
 2. **Open the folder**
    - Go to: `Love-Me-Not-main/LoveMeNot`
 
 3. **Run the game**
    - To **build an EXE** → double-click `build_exe.bat`
-   - To **Play** the game → open the newly created folder `dist` and double-click on `main.exe`.
+   - To **Play** the game → open the newly created folder `dist` and double-click on `main.exe`
