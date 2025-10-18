@@ -59,7 +59,7 @@ Every interaction is a delicate dance between rejection and survival—the more 
 
 ### **1.3 Development Software**
 - **Pygame-CE**: The core framework and language for game development.
-- **PyCharm 2024.3**: The Integrated Development Environment (IDE) used for coding.
+- **PyCharm 2024.3 & Visual Studio Code**: The Integrated Development Environment (IDE) used for coding.
 - **Adobe Photoshop**: For creating and editing game graphics.
 - **Audacity**: For sound effects and audio editing.
 
