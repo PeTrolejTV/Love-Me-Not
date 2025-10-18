@@ -18,7 +18,7 @@ def resource_path(relative_path):
 main_menu_music = pygame.mixer.Sound(resource_path("assets/Music/background_music/main_menu.mp3"))
 in_game_music = pygame.mixer.Sound(resource_path("assets/Music/background_music/BGM.mp3"))
 end_game_music = pygame.mixer.Sound(resource_path("assets/Music/background_music/EGM.mp3"))
-celebration = pygame.mixer.Sound(resource_path("assets/Fonts/Celebration.mp3"))
+celebration = pygame.mixer.Sound(resource_path("assets/Music/background_music/Celebration.mp3"))
 
 # Sound Effects
 letter_sound = pygame.mixer.Sound(resource_path("assets/Music/sound_effects/typing_sound_effect.wav"))
@@ -28,3 +28,4 @@ victory = pygame.mixer.Sound(resource_path("assets/Music/sound_effects/victory.w
 # Button Sound Effects
 button_click = pygame.mixer.Sound(resource_path("assets/Music/sound_effects/button_select_sound_effect.wav"))
 button_hover = pygame.mixer.Sound(resource_path("assets/Music/sound_effects/button_hover_sound_effect.wav"))
+
