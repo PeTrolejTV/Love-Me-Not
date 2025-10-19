@@ -31,9 +31,10 @@ IF %ERRORLEVEL% NEQ 0 (
 
 :: Build EXE
 echo Building EXE...
-python -m PyInstaller --onefile --windowed --icon=assets/Art/icon.ico --add-data "assets;assets" main.py
+python -m PyInstaller --onefile --windowed --icon=assets/Art/icon.ico --add-data "assets;assets" LoveMeNot.py
 
 echo ================================
 echo Done! The EXE is inside the "dist" folder.
 echo ================================
 pause
+
