@@ -282,6 +282,6 @@ Will you be able to break her heart before she breaks yours?
 
 3. **Run the game**
    - To **build an EXE** → double-click `build_exe.bat`
-   - Wait some time till everything downloads and builds the game
+   - Wait some time till everything downloads and builds the exe
    - Press any key in the Command Prompt or just close it
    - To **Play** the game → open the newly created folder `dist` and double-click on `LoveMeNot.exe`
